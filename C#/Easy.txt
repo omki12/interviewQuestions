@@ -1,0 +1,9 @@
+implicit vs explicit type casting:  implicit= int to long, explicit int x = (int) doubleValue;
+Bitwise operator: >> << | &
+float vs double: float has 7 precision points. double has 15. 1.1234567 1.1234567891234567
+	both are real type binary represation.
+float vs decimal: "float is real type binary whereas decimal is real type decimal"
+	decimal can store lower range of values than float, but accuracy is more in decimal. hence decimal is used in all financial and applications. but decimal is 10 to 100 times slower at performing oprerations as decimal operations is purely done by sofware algo while floating operations done on hardware level.
+optional parameter vs named parameter in c# method?
+object has "state" and "Behaviour". and class has fields, properties, methods.
+Struct vs Class? class is ref types and struct is value type. class supports inheritance, struct dosen't. but both supports interface.

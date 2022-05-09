@@ -1,0 +1,8 @@
+what is CLR?
+what is MSIL?
+what does dispose do?
+disposal desing pattern?
+in integer divide by 0 throws exception, but float or double give PostiveInfinity or NegativeInfinity as result.
+in integer 0 divide by 0 throws exception, but float or double give NaN as result.
+param in c# method.
+why and when to use "using"?  To import namespaces. to implement disposable pattern. => it calls dispose method => which calls 'close' method.
