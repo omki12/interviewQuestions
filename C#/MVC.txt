@@ -1,0 +1,13 @@
+write code between return view and renedring view
+actionResults
+call between routing and controller action method
+array sort
+array duplicate entry
+action filter
+DDL vs DML
+why namespace required at all
+when and shy use protected internal?
+gcc.collect()
+how properties are different than variable ?
+
+heartbit for device
